@@ -17,5 +17,5 @@ In this repository, you'll find code snippets, projects, and notes related to fr
 
 - **CSS**: Cascading Style Sheets are used for styling HTML documents, controlling the layout and appearance of web pages.
 
-- 
+
 **React**: A JavaScript library for building user interfaces, particularly for single-page applications. React simplifies the process of creating interactive UIs, making it easier to manage and update components.
