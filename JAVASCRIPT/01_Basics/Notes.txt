@@ -1,0 +1,11 @@
+1. Javascript runs on the client side(User machine).
+2. Javascript is used in both (Frontend and Backend).
+3. Javascript is a high level dynamic programming language.
+4. It allows client-side scripting to create completely dynamic web applications and websites.
+5. Javascript was initially designed for making pages "alive" (Functional).
+6. ⭐It can be excuted on the browser as well as the server.
+(Javascript ko node.js ki help se backend mei use kiya jata hai).
+(So , why javscript and Node.js is different) Node.js is browser ke bahar agar javascript ko run karna pad gaya , that is node.js
+7. Javascript is a safe language.
+8. There are languages that get "transpiled" to Javascript. (Ex- Coffeescript,Typescript [These are the languages which are made by modification in the javascript]).
+9. 
